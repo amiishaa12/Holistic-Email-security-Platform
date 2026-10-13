@@ -1,0 +1,30 @@
+From: Netflix Support <support@example.com>
+To: testuser@gmail.com
+Subject: Urgent: Verify Your Account
+Date: Tue, 29 Sep 2026 10:30:00 +0530
+Message-ID: <12345@example.com>
+Received: from mail.example.com (mail.example.com [192.0.2.10])
+        by mail.google.com with ESMTPS id abc123
+        for <testuser@gmail.com>;
+        Tue, 29 Sep 2026 10:30:00 +0530
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+
+<p>Dear Customer,</p>
+
+<p>Your account requires verification.</p>
+
+<p>
+<a href="https://example.com/login">
+Verify your account
+</a>
+</p>
+
+<p>Thank you,<br>
+Netflix Support</p>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+From: Netflix Support <support@example.com>
+To: testuser@gmail.com
+Subject: Urgent: Verify Your Account
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2505594382717634608=="
+
+--===============2505594382717634608==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+
+Dear Customer,
+
+Your account requires verification.
+
+Please visit:
+https://example.com/login
+
+Thank you,
+Netflix Support
+
+--===============2505594382717634608==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQKRHVtbXkgdGVzdCBQREYgZmlsZSBmb3IgZW1haWwgc2VjdXJpdHkgdGVzdGluZy4=
+
+--===============2505594382717634608==--
